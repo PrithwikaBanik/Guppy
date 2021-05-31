@@ -1,4 +1,4 @@
-# review-guppy
+# Review-Guppy
 A decision making engine for products on amazon.in that decides whether to buy or not buy the product based on sentiments of the reviews.
 
 # Home Screen
